@@ -22,7 +22,7 @@ image_size = 224
 num_workers = 2
 model_name = RESNET101
 use_cuda = True
-num_epochs = 40
+num_epochs = 20
 learning_rate = 1e-3
 early_stopping_criteria = 5
 
